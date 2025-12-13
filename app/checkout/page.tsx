@@ -13,9 +13,9 @@ export default function CheckoutPage() {
   const [step, setStep] = useState<'shipping' | 'payment'>('shipping')
   
   // Mock cart total
-  const subtotal = 540
-  const shipping = 0
-  const total = subtotal + shipping
+const subtotal: number = 540
+const shipping: number = 0
+const total: number = subtotal + shipping
 
   const handleShippingSubmit = (e: React.FormEvent) => {
     e.preventDefault()

@@ -19,11 +19,11 @@ export const products: Product[] = [
     price: 245,
     category: 'women',
     images: [
-      '/silk-midi-dress-fashion.jpg',
-      '/silk-midi-dress-detail.jpg'
+      '/s2.jpg',
+      '/s2.jpg'
     ],
     sizes: ['XS', 'S', 'M', 'L', 'XL'],
-    colors: ['Cream', 'Sage', 'Black'],
+    colors: ['red', 'yellow', 'Black'],
     featured: true,
     newArrival: true
   },
@@ -34,8 +34,8 @@ export const products: Product[] = [
     price: 350,
     category: 'women',
     images: [
-      '/women-wool-blazer-fashion.jpg',
-      '/women-wool-blazer-detail.jpg'
+      '/t1.jpg',
+      '/t1.jpg'
     ],
     sizes: ['34', '36', '38', '40', '42'],
     colors: ['Camel', 'Navy', 'Black'],
@@ -48,8 +48,8 @@ export const products: Product[] = [
     price: 180,
     category: 'men',
     images: [
-      '/men-cashmere-sweater-fashion.jpg',
-      '/men-cashmere-sweater-detail.jpg'
+      '/t3.jpg',
+      '/t4.jpg'
     ],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     colors: ['Grey', 'Navy', 'Burgundy'],
@@ -62,8 +62,8 @@ export const products: Product[] = [
     price: 120,
     category: 'men',
     images: [
-      '/men-chino-trousers-fashion.jpg',
-      '/men-chino-trousers-detail.jpg'
+      '/c1.jpg',
+      '/c1.jpg'
     ],
     sizes: ['30', '32', '34', '36', '38'],
     colors: ['Beige', 'Olive', 'Navy'],

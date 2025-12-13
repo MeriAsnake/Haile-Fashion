@@ -28,13 +28,13 @@ export function Header() {
             <SheetContent side="left">
               <nav className="flex flex-col gap-4 mt-8">
                 <Link href="/shop/women" className="text-lg font-medium hover:text-accent transition-colors">
-                  Women
+                  Shfone Dress
                 </Link>
                 <Link href="/shop/men" className="text-lg font-medium hover:text-accent transition-colors">
-                  Men
+                  Tishrts & Crops
                 </Link>
                 <Link href="/shop/accessories" className="text-lg font-medium hover:text-accent transition-colors">
-                  Accessories
+                  Throusers
                 </Link>
                 <Link href="/collections" className="text-lg font-medium hover:text-accent transition-colors">
                   Collections
@@ -54,13 +54,13 @@ export function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-8">
             <Link href="/shop/women" className="text-sm font-medium hover:text-accent transition-colors">
-              Women
+              Shfon Dress
             </Link>
             <Link href="/shop/men" className="text-sm font-medium hover:text-accent transition-colors">
-              Men
+              Tisherts & Crops
             </Link>
             <Link href="/shop/accessories" className="text-sm font-medium hover:text-accent transition-colors">
-              Accessories
+              Throusers
             </Link>
             <Link href="/collections" className="text-sm font-medium hover:text-accent transition-colors">
               Collections
