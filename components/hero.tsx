@@ -23,7 +23,7 @@ export function Hero() {
           </p>
           <div className="flex flex-col gap-4 sm:flex-row sm:justify-center">
             <Button size="lg" className="bg-white text-black hover:bg-white/90" asChild>
-              <Link href="/shop/women">Shfon Dress</Link>
+              <Link href="/shop/women">Shifon Dress</Link>
             </Button>
             <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black" asChild>
               <Link href="/shop/men">Throusers</Link>

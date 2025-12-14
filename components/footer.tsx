@@ -92,21 +92,6 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Newsletter */}
-          <div>
-            <h3 className="font-semibold mb-4">Newsletter</h3>
-            <p className="text-sm text-muted-foreground mb-4 leading-relaxed">
-              Subscribe to receive updates, access to exclusive deals, and more.
-            </p>
-            <form className="flex gap-2">
-              <Input 
-                type="email" 
-                placeholder="Your email" 
-                className="flex-1"
-              />
-              <Button type="submit">Subscribe</Button>
-            </form>
-          </div>
         </div>
 
         {/* Bottom Bar */}

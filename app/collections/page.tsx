@@ -7,7 +7,7 @@ export default function CollectionsPage() {
       <div className="mb-12 text-center">
         <h1 className="font-serif text-4xl font-bold tracking-tight sm:text-5xl">All Collections</h1>
         <p className="mt-4 text-muted-foreground">
-          Browse our complete catalog of premium fashion items.
+          Browse our complete catalog of fashion items.
         </p>
       </div>
 
