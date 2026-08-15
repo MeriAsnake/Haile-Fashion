@@ -62,9 +62,6 @@ export function Header() {
             <Link href="/shop/accessories" className="text-sm font-medium hover:text-accent transition-colors">
               Throusers
             </Link>
-            <Link href="/collections" className="text-sm font-medium hover:text-accent transition-colors">
-              Collections
-            </Link>
             <Link href="/about" className="text-sm font-medium hover:text-accent transition-colors">
               Contact Us
             </Link>

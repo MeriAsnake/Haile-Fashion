@@ -19,9 +19,9 @@ export default async function CategoryPage({
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="mb-12 text-center">
-        <h1 className="font-serif text-4xl font-bold capitalize tracking-tight sm:text-5xl">{category}</h1>
+        <h1 className="font-serif text-4xl font-bold capitalize tracking-tight sm:text-5xl">New Shifon Dress</h1>
         <p className="mt-4 text-muted-foreground">
-          Explore our latest collection of {category}'s fashion.
+          Explore our latest collection of  fashion.
         </p>
       </div>
 

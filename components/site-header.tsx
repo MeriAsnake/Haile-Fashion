@@ -24,7 +24,7 @@ export function SiteHeader() {
                   Shop
                 </Link>
                 <Link href="/collections" className="text-lg font-medium hover:text-primary">
-                  Collections
+                  New Arrivals
                 </Link>
                 <Link href="/about" className="text-lg font-medium hover:text-primary">
                   About
@@ -41,9 +41,6 @@ export function SiteHeader() {
           <nav className="hidden md:flex gap-6">
             <Link href="/shop" className="text-sm font-medium transition-colors hover:text-primary">
               Shop
-            </Link>
-            <Link href="/collections" className="text-sm font-medium transition-colors hover:text-primary">
-              Collections
             </Link>
             <Link href="/about" className="text-sm font-medium transition-colors hover:text-primary">
               About

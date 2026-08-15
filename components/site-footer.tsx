@@ -11,16 +11,7 @@ export function SiteFooter() {
               Timeless elegance for the modern soul. Curated collections of high-end fashion.
             </p>
           </div>
-          <div>
-            <h4 className="font-medium mb-4">Shop</h4>
-            <ul className="space-y-2 text-sm text-muted-foreground">
-              <li><Link href="/shop/new" className="hover:text-primary">New Arrivals</Link></li>
-              <li><Link href="/shop/women" className="hover:text-primary">Women</Link></li>
-              <li><Link href="/shop/men" className="hover:text-primary">Men</Link></li>
-              <li><Link href="/shop/accessories" className="hover:text-primary">Accessories</Link></li>
-            </ul>
-          </div>
-          <div>
+         
             <h4 className="font-medium mb-4">Company</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li><Link href="/about" className="hover:text-primary">About Us</Link></li>
@@ -49,7 +40,7 @@ export function SiteFooter() {
         <div className="mt-12 border-t pt-8 text-center text-sm text-muted-foreground">
           <p>&copy; {new Date().getFullYear()} Haile Fashion. All rights reserved.</p>
         </div>
-      </div>
+      
     </footer>
   )
 }
